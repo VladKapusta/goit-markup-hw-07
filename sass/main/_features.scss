@@ -16,13 +16,15 @@
   }
 }
 .features__wraper-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 120px;
-    margin-bottom: 30px;
-    background-color: $bg-color-team;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  margin-bottom: 30px;
+
+  background-color: $bg-color-team;
+  border-radius: 4px;
 }
 .features__titel {
   margin-top: 0;
@@ -35,5 +37,5 @@
   text-transform: uppercase;
 }
 .features__text {
-    margin: 0;
+  margin: 0;
 }
