@@ -1,7 +1,7 @@
 .header {
     border-bottom: 1px solid $border-header-color;
 }
-.container {
+.container-header {
   @extend %container;
 
   display: flex;

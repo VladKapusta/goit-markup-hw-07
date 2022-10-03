@@ -1,6 +1,8 @@
 .clients {
-  @extend %container;
   @extend %section;
+}
+.container-clients {
+  @extend %container;
 }
 
 .clients__titel {

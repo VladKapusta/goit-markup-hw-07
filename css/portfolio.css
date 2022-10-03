@@ -32,7 +32,7 @@ body {
   margin: -1px;
 }
 
-.footer-container, .exsemples, .container {
+.container-footer, .container-exsemples, .container-header {
   margin: 0 auto;
   padding: 0 15px;
   width: 1200px;
@@ -57,7 +57,7 @@ body {
   border-bottom: 1px solid #ECECEC;
 }
 
-.container {
+.container-header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -295,7 +295,7 @@ body {
   background-color: #2F303A;
 }
 
-.footer-container {
+.container-footer {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

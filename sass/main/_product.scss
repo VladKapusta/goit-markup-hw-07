@@ -1,7 +1,8 @@
 .product {
-  @extend %container;
-
   padding-bottom: 93px;
+}
+.container-product {
+  @extend %container;
 }
 .product__titel {
   margin-top: 0;

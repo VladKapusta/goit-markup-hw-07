@@ -1,6 +1,8 @@
 .features {
-  @extend %container;
   @extend %section;
+}
+.container-features {
+  @extend %container;
 }
 .features__list {
   @extend %list;
@@ -20,6 +22,7 @@
     width: 100%;
     height: 120px;
     margin-bottom: 30px;
+    background-color: $bg-color-team;
 }
 .features__titel {
   margin-top: 0;

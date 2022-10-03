@@ -3,7 +3,7 @@
 
   background-color: $bg-footer-color;
 }
-.footer-container {
+.container-footer {
   @extend %container;
   display: flex;
   align-items: baseline;

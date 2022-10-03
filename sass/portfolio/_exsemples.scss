@@ -1,5 +1,7 @@
 .exsemples {
     @extend %section;
+  }
+  .container-exsemples {
     @extend %container;
   }
   .card-set {
